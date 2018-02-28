@@ -1,7 +1,0 @@
-{
-  "UserSettingsRecorded": false,
-  "Flags": "1",
-  "ProxyServer": "http=127.0.0.1:4136;https=127.0.0.1:4136;socks=127.0.0.1:4135",
-  "BypassList": "<local>",
-  "PacUrl": "http://127.0.0.1:1080/pac?t=20180227193957175&secret=ZpjptglIvIdOzPHr6csMEGgh4CVv8MThT+R6D93JL2k="
-}
